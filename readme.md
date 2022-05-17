@@ -29,7 +29,7 @@ MicrosoftAccount\me@domain.com
 Make sure to keep the ```MicrosoftAccount``` part in your username. If it doesn't work, try to disable the "PIN" login (Settings > Accounts > Sign in options > PIN).
 
 ## How can I access my PC on my local LAN?
-It works usually better if you provide the IP address of your PC. To know find your IP:
+It usually works better if you provide the IP address of your PC. To know find your IP:
 [Find your IP](https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9)
 Your share will then look like something like: ```\\192.168.1.20\yourshare```
 
