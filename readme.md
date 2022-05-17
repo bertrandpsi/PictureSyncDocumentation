@@ -2,7 +2,7 @@
 
 ## Quick start
 1. Create a share on your Windows machine
-2. Grand a local user access to it as read & write
+2. Grant a local user access to it as read & write
 3. Install the app on your phone
 4. Setup the app by specifying your window share and your username & password
 
