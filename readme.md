@@ -44,5 +44,8 @@ Yes the APP is able to sync in background automatically, however you may need to
 - Set the app as unrestricted for the battery usage
 - Allow the app to use data even if the data saving is enabled.
 
-## Can we disable the automatic sync?
-Yes! In the APP go in the settings and disable the auto-sync.
+## Can I disable the automatic sync?
+Yes! In the APP, go to the settings and disable the auto-sync.
+
+## Can I choose which folder to sync?
+Yes! In the APP, go to the settings and choose which folder to sync. The APP shows all the picture's folders found on your device. By having removing the checkbox on one entry you will disable that folder from the sync operation.
