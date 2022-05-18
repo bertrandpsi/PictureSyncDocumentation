@@ -12,7 +12,7 @@ Picture Sync is a relatively simple application which scans the pictures on your
 ## How to use it
 1. Setup your windows share
 2. Setup the app
-3. Press OK (don't forget to press ok in the settings otherwise the settings are not stored)
+3. Return to the main page (back button)
 4. From the main page, simply press the bottom right button to sync
 
 ## What is required
