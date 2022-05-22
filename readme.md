@@ -6,7 +6,7 @@
 3. Install the app on your phone
 4. Setup the app by specifying your window share and your username & password
 
-## What is it
+## What is Picture Sync
 Picture Sync is a relatively simple application which scans the pictures on your phone and enable you to sync them on a Windows share or any other SMB share.
 
 ## How to use it
@@ -20,6 +20,15 @@ Picture Sync is a relatively simple application which scans the pictures on your
 - You must have a local username & password that your phone uses to connect to your share.
 - Your phone must be able to connect to your share, as usually your PC or NAS device is not directly visible on internet,
 your phone must be on the same network (for example via WIFI) during the sync operation.
+
+## How to create a Windows Share
+1. Create the folder you want to sync your images to 
+2. Right click on the file you have created and open proprties 
+3. Select the sharing tab and click on share 
+4. Give your user Read/Write permissions then click share 
+5. You should now be able to copy images to the folder you have just created 
+<!--![share0](https://user-images.githubusercontent.com/32289945/169647099-6d3265f8-402f-47dd-9748-d52b106069d8.jpg)
+![Share1](https://user-images.githubusercontent.com/32289945/169647102-8d0d48c5-a20c-42c5-957f-a1422965c0a9.jpg)--->
 
 ## Can I use a Microsoft account?
 You should be able to use your Microsoft account via the following syntax as username:
