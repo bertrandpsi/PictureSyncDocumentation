@@ -22,7 +22,7 @@ Picture Sync is a relatively simple application which scans the pictures on your
 your phone must be on the same network (for example via WIFI) during the sync operation.
 
 ## How to create a Windows Share
-1. Create the folder you want to sync your images to 
+1. Create a that folder you want to sync your images to 
 2. Right click on the file you have created and open proprties 
 3. Select the sharing tab and click on share 
 4. Give your user Read/Write permissions then click share 
